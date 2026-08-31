@@ -15,6 +15,20 @@ This project applies **Exploratory Data Analysis (EDA)** and **Data Visualizatio
 - Exploratory Data Analysis (summary statistics, missing values, distributions)  
 - Visualization using **Matplotlib** and **Seaborn**  
 
+## Tools & Libraries
+This project was built using:
+
+- Python 3 – core programming language
+
+- Jupyter Notebook – interactive environment for analysis
+
+- Pandas – data manipulation and cleaning
+
+- NumPy – numerical computations
+
+- Matplotlib – static visualizations
+
+- Seaborn – advanced statistical visualizations
 
 ## Visualizations & Insights  
 1. **Monthly Revenue Contribution by Product Category**  
